@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  const API_KEY="YOUR_API_KEY_HERE";
+=======
+ const API_KEY="b68e45a8e3b504f9303542a66059855d";
+>>>>>>> 1067166c79dbe806ed938ac195553e4891c473ca
