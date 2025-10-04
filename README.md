@@ -28,4 +28,4 @@ This project requires a weather API key (e.g., from [OpenWeatherMap](https://ope
 3. Replace `YOUR_API_KEY_HERE` with your own API key:
 
    ```javascript
-   const apiKey = "YOUR_API_KEY_HERE";
+   const API_KEY = "YOUR_API_KEY_HERE";
