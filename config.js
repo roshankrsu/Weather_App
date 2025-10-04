@@ -1,1 +1,1 @@
- const API_KEY="b68e45a8e3b504f9303542a66059855d";
+ const API_KEY="YOUR_API_KEY";
